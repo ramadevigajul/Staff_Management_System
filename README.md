@@ -319,9 +319,11 @@ http://localhost:8080/
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c232c40-8c7f-4539-bc36-4094c2685bd4" />
 
 
+
 ✅ Register Staff Page
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f533bfbf-34c9-41be-816e-3d991c0742b2" />
+
 
 
 ✅ Search Staff Page
@@ -329,9 +331,11 @@ http://localhost:8080/
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/85fa2d77-bba2-4c8e-bdde-91cfbaba4535" />
 
 
+
 ✅ View All Staff Page
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbdc69d9-80aa-4046-878b-30e2df208de4" />
+
 
 
 ✅ Update Staff Page
