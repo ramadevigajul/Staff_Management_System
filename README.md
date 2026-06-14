@@ -379,7 +379,7 @@ This project helped in understanding:
 
 ## Ramadevi Gajul
 
-**B.Tech (Machine Learning)**
+**B.Tech (Computer Science and Engineering)**
 
 Java Full Stack Developer
 
